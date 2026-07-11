@@ -1,136 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 492" width="860" height="492">
-  <!-- Background -->
-  <rect width="860" height="492" rx="10" fill="#0d1117"/>
-  <!-- Title bar -->
-  <rect width="860" height="32" rx="10" fill="#161b22"/>
-  <rect y="22" width="860" height="10" fill="#161b22"/>
-  <!-- Traffic lights -->
-  <circle cx="22" cy="16" r="6" fill="#ff5f57"/>
-  <circle cx="42" cy="16" r="6" fill="#febc2e"/>
-  <circle cx="62" cy="16" r="6" fill="#28c840"/>
-  <!-- Terminal title -->
-  <text x="430" y="21" text-anchor="middle" fill="#6e7681" font-family="'Courier New', Courier, monospace" font-size="12">dinoarla — zsh</text>
-  <!-- Column divider -->
-  <line x1="394" y1="32" x2="394" y2="492" stroke="#21262d" stroke-width="1"/>
-
-  <!-- =============================== LEFT COLUMN: ASCII PORTRAIT =============================== -->
-
-  <!-- Row 0 (y=55) -->
-  <text x="14" y="55" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">         ..,:clodddlc:,.              </text>
-  <!-- Row 1 (y=74) -->
-  <text x="14" y="74" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">       .dONWWWWWWWWWWWNOd.            </text>
-  <!-- Row 2 (y=93) -->
-  <text x="14" y="93" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">      lXWWWWWWWWWWWWWWWWXl            </text>
-  <!-- Row 3 (y=112) -->
-  <text x="14" y="112" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">     oNWWNK0OkdoodxO0KNWWNo           </text>
-  <!-- Row 4 (y=131) -->
-  <text x="14" y="131" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">    :KWWWx,.           .,xWWWK:        </text>
-  <!-- Row 5 (y=150) -->
-  <text x="14" y="150" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">    kWWWl.   .       .   .lWWWk        </text>
-  <!-- Row 6 (y=169) -->
-  <text x="14" y="169" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">   'KWWd  'oOko.  .okOo'  dWWK'       </text>
-  <!-- Row 7 (y=188) -->
-  <text x="14" y="188" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">   cWWNc   .clo.  .olc.   cNWWc       </text>
-  <!-- Row 8 (y=207) -->
-  <text x="14" y="207" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">   cWWWl                   lWWWc       </text>
-  <!-- Row 9 (y=226) -->
-  <text x="14" y="226" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">   'KWWk.   .cdxxdc.   .kWWK'         </text>
-  <!-- Row 10 (y=245) -->
-  <text x="14" y="245" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">    oNWWOc.  .;ccc;.  .cOWWNo          </text>
-  <!-- Row 11 (y=264) -->
-  <text x="14" y="264" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">     oKWWWNKkdoooodkKNWWWKo            </text>
-  <!-- Row 12 (y=283) -->
-  <text x="14" y="283" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">      .ckNWWWWWWWWWWWNkc.              </text>
-  <!-- Row 13 (y=302) -->
-  <text x="14" y="302" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">          ..,;:::;,..                  </text>
-  <!-- Row 14 (y=321) blank -->
-  <text x="14" y="321" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">                                       </text>
-  <!-- Row 15 (y=340) name -->
-  <text x="14" y="340" font-family="'Courier New', Courier, monospace" font-size="12" fill="#e3b341">       d i n o a r l a                </text>
-  <!-- Row 16 (y=359) underline -->
-  <text x="14" y="359" font-family="'Courier New', Courier, monospace" font-size="12" fill="#484f58">       ─────────────────               </text>
-  <!-- Row 17 (y=378) blank -->
-  <text x="14" y="378" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">                                       </text>
-  <!-- Row 18 (y=397) role -->
-  <text x="14" y="397" font-family="'Courier New', Courier, monospace" font-size="12" fill="#79c0ff">    Electrical Eng  ·  PLN             </text>
-  <!-- Row 19 (y=416) research -->
-  <text x="14" y="416" font-family="'Courier New', Courier, monospace" font-size="12" fill="#79c0ff">    Applied ML Research                </text>
-  <!-- Row 20 (y=435) education + location -->
-  <text x="14" y="435" font-family="'Courier New', Courier, monospace" font-size="12" fill="#79c0ff">    ITS  ·  West Java, Indonesia       </text>
-  <!-- Row 21 (y=454) blank -->
-  <text x="14" y="454" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">                                       </text>
-  <!-- Row 22 (y=473) blank -->
-  <text x="14" y="473" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">                                       </text>
-
-  <!-- =============================== RIGHT COLUMN: NEOFETCH INFO =============================== -->
-
-  <!-- Row 0 (y=55): username header — dashes now #484f58 (visible gray) -->
-  <text x="410" y="55" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#e6edf3" font-weight="bold">dinoarla </tspan><tspan fill="#484f58">────────────────────────────────────────────────</tspan></text>
-
-  <!-- Row 1 (y=74): OS -->
-  <text x="410" y="74" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">OS:</tspan><tspan fill="#6e7681"> .............................. </tspan><tspan fill="#79c0ff">macOS, Linux</tspan></text>
-
-  <!-- Row 2 (y=93): Uptime -->
-  <text x="410" y="93" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Uptime:</tspan><tspan fill="#6e7681"> .......................... </tspan><tspan fill="#79c0ff">7+ yrs hacking</tspan></text>
-
-  <!-- Row 3 (y=112): Host -->
-  <text x="410" y="112" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Host:</tspan><tspan fill="#6e7681"> ............................ </tspan><tspan fill="#79c0ff">West Java, Indonesia</tspan></text>
-
-  <!-- Row 4 (y=131): Role -->
-  <text x="410" y="131" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Role:</tspan><tspan fill="#6e7681"> ............................ </tspan><tspan fill="#79c0ff">Electrical Eng · ML Res</tspan></text>
-
-  <!-- Row 5 (y=150): IDE -->
-  <text x="410" y="150" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">IDE:</tspan><tspan fill="#6e7681"> ............................. </tspan><tspan fill="#79c0ff">VS Code, Cursor</tspan></text>
-
-  <!-- Row 6 (y=169): blank dot -->
-  <text x="410" y="169" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">.</text>
-
-  <!-- Row 7 (y=188): Languages.Programming -->
-  <text x="410" y="188" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Languages.Programming:</tspan><tspan fill="#6e7681"> ........... </tspan><tspan fill="#79c0ff">Python, TypeScript, SQL</tspan></text>
-
-  <!-- Row 8 (y=207): Languages.Markup -->
-  <text x="410" y="207" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Languages.Markup:</tspan><tspan fill="#6e7681"> ................ </tspan><tspan fill="#79c0ff">HTML, CSS, YAML, JSON</tspan></text>
-
-  <!-- Row 9 (y=226): Languages.Real -->
-  <text x="410" y="226" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Languages.Real:</tspan><tspan fill="#6e7681"> .................. </tspan><tspan fill="#79c0ff">Indonesian, English</tspan></text>
-
-  <!-- Row 10 (y=245): blank dot -->
-  <text x="410" y="245" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">.</text>
-
-  <!-- Row 11 (y=264): Tools -->
-  <text x="410" y="264" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Tools:</tspan><tspan fill="#6e7681"> ........................... </tspan><tspan fill="#79c0ff">scikit-learn, PyTorch</tspan></text>
-
-  <!-- Row 12 (y=283): Frameworks -->
-  <text x="410" y="283" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Frameworks:</tspan><tspan fill="#6e7681"> ...................... </tspan><tspan fill="#79c0ff">Next.js, Hono, Drizzle</tspan></text>
-
-  <!-- Row 13 (y=302): Database -->
-  <text x="410" y="302" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Database:</tspan><tspan fill="#6e7681"> ........................ </tspan><tspan fill="#79c0ff">MySQL, PostgreSQL</tspan></text>
-
-  <!-- Row 14 (y=321): blank dot -->
-  <text x="410" y="321" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">.</text>
-
-  <!-- Row 15 (y=340): Contact section header — dashes now visible -->
-  <text x="410" y="340" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#484f58">─ </tspan><tspan fill="#e6edf3">Contact </tspan><tspan fill="#484f58">──────────────────────────────────────────────</tspan></text>
-
-  <!-- Row 16 (y=359): Email -->
-  <text x="410" y="359" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Email:</tspan><tspan fill="#6e7681"> ........................... </tspan><tspan fill="#79c0ff">dinoarla@gmail.com</tspan></text>
-
-  <!-- Row 17 (y=378): GitHub -->
-  <text x="410" y="378" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">GitHub:</tspan><tspan fill="#6e7681"> .......................... </tspan><tspan fill="#79c0ff">github.com/dinoarla</tspan></text>
-
-  <!-- Row 18 (y=397): LinkedIn -->
-  <text x="410" y="397" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">LinkedIn:</tspan><tspan fill="#6e7681"> ........................ </tspan><tspan fill="#79c0ff">/in/dino-arla</tspan></text>
-
-  <!-- Row 19 (y=416): blank dot -->
-  <text x="410" y="416" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">.</text>
-
-  <!-- Row 20 (y=435): GitHub Stats header — dashes now visible -->
-  <text x="410" y="435" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#484f58">─ </tspan><tspan fill="#e6edf3">GitHub Stats </tspan><tspan fill="#484f58">────────────────────────────────────────</tspan></text>
-
-  <!-- Row 21 (y=454): Repos | Stars -->
-  <text x="410" y="454" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Repos:</tspan><tspan fill="#6e7681"> ... </tspan><tspan fill="#e6edf3">—</tspan><tspan fill="#6e7681">  |  </tspan><tspan fill="#ffa657">Stars:</tspan><tspan fill="#6e7681"> .............. </tspan><tspan fill="#e6edf3">—</tspan></text>
-
-  <!-- Row 22 (y=473): Commits | Followers -->
-  <text x="410" y="473" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Commits:</tspan><tspan fill="#6e7681"> . </tspan><tspan fill="#e6edf3">—</tspan><tspan fill="#6e7681">  |  </tspan><tspan fill="#ffa657">Followers:</tspan><tspan fill="#6e7681"> ......... </tspan><tspan fill="#e6edf3">—</tspan></text>
-
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">`'`.l.iiiiiixxxooooooo;;,`x:`'`','..:,.p\j</tspan>
+<tspan x="15" y="50">```;o oiiiixxxxxoooooooo:',`'`.x*,..',!\,:</tspan>
+<tspan x="15" y="70">```;, .iiiixxxxxoooooooo;'`'``o|l,'.x\c',;</tspan>
+<tspan x="15" y="90">`''::``;iiixxxxxxooooooo;.'''`'x,o:l|;'''p</tspan>
+<tspan x="15" y="110">`.pp:'`.iiixxxxxio;ooooo;.';;`'ix!!\:''`*N</tspan>
+<tspan x="15" y="130">.`io`.``xixxxxxo!\o;;;xxo''i,.j###{l.'o]%@</tspan>
+<tspan x="15" y="150">x''`'.` ;ixxxxxxoooooooxo''.;j@@@@gi,`l#@%</tspan>
+<tspan x="15" y="170">':,``o, ;xxxxxoox;o;,;,,,.`oM@%@@#@c.',k@N</tspan>
+<tspan x="15" y="190">ilo.`.,`plooooxoilo:,;'```i#@N{w#k}p;''!%%</tspan>
+<tspan x="15" y="210">::,ci `:!p;ooooox\o::,.'`l@@W]NW|o!{o.'oN@</tspan>
+<tspan x="15" y="230">,';;.``,|;,;;ic;xp'|k!; p@@g]g\:`:jwo'',]@</tspan>
+<tspan x="15" y="250">''p:`' :!o'i;!i,o,p@j{w]@#M%%}``,,\g|,''\%</tspan>
+<tspan x="15" y="270"> ;ic```o;',ioco:io.x,.w%%%#@@@w.,:\Ngx.`{#</tspan>
+<tspan x="15" y="290">x*i!``'xx'';o,:;io`''.i|[{{]j#@l::l#@p',pj</tspan>
+<tspan x="15" y="310">wgw},..,,'''''',i:.{[{]{||]jk%go`'l%@k:;\w</tspan>
+<tspan x="15" y="330">w%}g];;;:.';`':;ic }{*{kwN#N#@];:ipj%Ni.x!</tspan>
+<tspan x="15" y="350">[Ww@@j!l\Mc'.:iol|x'',\N[]jgM#W!]{pW@@*,'!</tspan>
+<tspan x="15" y="370">]pgNj{:;*x*iox!\ijk,.;pwclNM#gkk}}c]#j!i';</tspan>
+<tspan x="15" y="390">j}M[[{...'k]''[{cc{gp:pjkM@#NgjwgWWgp`'!.'</tspan>
+<tspan x="15" y="410">[k|![@}xi\#! `}jN##@%k|x[W%wWWgWggM#jx.*cc</tspan>
+<tspan x="15" y="430">w[|**x`.c.;,k}c]]l{]jg%#jNW[%NNWgWN#@N!*x|</tspan>
+<tspan x="15" y="450">`.`    .p`  g]!i}}xox!gNgg}W%#MgggNN#@]*c;</tspan>
+<tspan x="15" y="470">   ````'``.,!p**:l**;i\[N[}###NwWWM#N@M\pi</tspan>
+<tspan x="15" y="490">  ``` ` ````   `` x}icx!w{g##%WwWNM%#@@kl}</tspan>
+<tspan x="15" y="510">;;`````'``  ``` ,cp*l[[{j]M##%gjgNM%%%@k![</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">dinoarla</tspan> -——————————————————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">calculating...</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">West Java, Indonesia</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Electrical Eng (Smart Grid) · PLN</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, Cursor</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Python, TypeScript, SQL</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">HTML, CSS, YAML, JSON</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Indonesian, English</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Research</tspan>.<tspan class="key">Topic</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Smart Grid, NTL Detection</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Research</tspan>.<tspan class="key">Degree</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">MSc Technology Mgmt, ITS</tspan>
+<tspan x="390" y="290" class="cc">. </tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">dinoarla@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">github.com/dinoarla</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">/in/dino-arla</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Scholar</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">fJvu4_YAAAAJ</tspan>
+<tspan x="390" y="410" class="cc">. </tspan>
+<tspan x="390" y="430">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">—</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">—</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">—</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">—</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">—</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">—</tspan> ( <tspan class="addColor" id="loc_add">—</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">—</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">dinoarla.com</tspan>
+</text>
 </svg>
