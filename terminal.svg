@@ -13,59 +13,59 @@
   <!-- Column divider -->
   <line x1="394" y1="32" x2="394" y2="492" stroke="#21262d" stroke-width="1"/>
 
-  <!-- =============================== LEFT COLUMN: ASCII BOX =============================== -->
+  <!-- =============================== LEFT COLUMN: ASCII PORTRAIT =============================== -->
 
-  <!-- Row 0 (y=55): top border -->
-  <text x="34" y="55" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">┌─────────────────────────────────────────────┐</text>
-  <!-- Row 1 (y=74): blank -->
-  <text x="34" y="74" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">│                                             │</text>
-  <!-- Row 2 (y=93): name -->
-  <text x="34" y="93" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#e3b341">d i n o a r l a                         </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 3 (y=112): name underline -->
-  <text x="34" y="112" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#6e7681">──────────────────────                   </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 4 (y=131): blank -->
-  <text x="34" y="131" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">│                                             │</text>
-  <!-- Row 5 (y=150): role -->
-  <text x="34" y="150" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#cae8ff">&gt; Electrical Engineer · PLN              </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 6 (y=169): study -->
-  <text x="34" y="169" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#cae8ff">&gt; MSc Tech Mgmt (Business Analytics) ITS </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 7 (y=188): location -->
-  <text x="34" y="188" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#cae8ff">&gt; West Java, Indonesia                   </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 8 (y=207): blank -->
-  <text x="34" y="207" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">│                                             │</text>
-  <!-- Row 9 (y=226): separator -->
-  <text x="34" y="226" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">├─────────────────────────────────────────────┤</text>
-  <!-- Row 10 (y=245): Python · scikit-learn -->
-  <text x="34" y="245" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#79c0ff">Python</tspan><tspan fill="#6e7681">        ·   </tspan><tspan fill="#79c0ff">scikit-learn           </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 11 (y=264): TypeScript · Next.js -->
-  <text x="34" y="264" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#79c0ff">TypeScript</tspan><tspan fill="#6e7681">    ·   </tspan><tspan fill="#79c0ff">Next.js                </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 12 (y=283): SQL · MySQL -->
-  <text x="34" y="283" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#79c0ff">SQL</tspan><tspan fill="#6e7681">           ·   </tspan><tspan fill="#79c0ff">MySQL / Drizzle        </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 13 (y=302): separator -->
-  <text x="34" y="302" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">├─────────────────────────────────────────────┤</text>
-  <!-- Row 14 (y=321): blank -->
-  <text x="34" y="321" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">│                                             │</text>
-  <!-- Row 15 (y=340): OS -->
-  <text x="34" y="340" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#e3b341">OS:    </tspan><tspan fill="#cae8ff">macOS</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#cae8ff">Linux                     </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 16 (y=359): Shell -->
-  <text x="34" y="359" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#e3b341">Shell: </tspan><tspan fill="#cae8ff">zsh                               </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 17 (y=378): Tool -->
-  <text x="34" y="378" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#e3b341">Tool:  </tspan><tspan fill="#cae8ff">VS Code</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#cae8ff">Cursor                  </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 18 (y=397): Mode -->
-  <text x="34" y="397" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#e3b341">Focus: </tspan><tspan fill="#cae8ff">Smart Grid · NTL Analytics        </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 19 (y=416): blank -->
-  <text x="34" y="416" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">│                                             │</text>
-  <!-- Row 20 (y=435): separator -->
-  <text x="34" y="435" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">├─────────────────────────────────────────────┤</text>
-  <!-- Row 21 (y=454): website -->
-  <text x="34" y="454" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#388bfd">│    </tspan><tspan fill="#58a6ff">dinoarla.com  ·  github.com/dinoarla    </tspan><tspan fill="#388bfd">│</tspan></text>
-  <!-- Row 22 (y=473): bottom border -->
-  <text x="34" y="473" font-family="'Courier New', Courier, monospace" font-size="12" fill="#388bfd">└─────────────────────────────────────────────┘</text>
+  <!-- Row 0 (y=55) -->
+  <text x="14" y="55" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">         ..,:clodddlc:,.              </text>
+  <!-- Row 1 (y=74) -->
+  <text x="14" y="74" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">       .dONWWWWWWWWWWWNOd.            </text>
+  <!-- Row 2 (y=93) -->
+  <text x="14" y="93" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">      lXWWWWWWWWWWWWWWWWXl            </text>
+  <!-- Row 3 (y=112) -->
+  <text x="14" y="112" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">     oNWWNK0OkdoodxO0KNWWNo           </text>
+  <!-- Row 4 (y=131) -->
+  <text x="14" y="131" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">    :KWWWx,.           .,xWWWK:        </text>
+  <!-- Row 5 (y=150) -->
+  <text x="14" y="150" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">    kWWWl.   .       .   .lWWWk        </text>
+  <!-- Row 6 (y=169) -->
+  <text x="14" y="169" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">   'KWWd  'oOko.  .okOo'  dWWK'       </text>
+  <!-- Row 7 (y=188) -->
+  <text x="14" y="188" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">   cWWNc   .clo.  .olc.   cNWWc       </text>
+  <!-- Row 8 (y=207) -->
+  <text x="14" y="207" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">   cWWWl                   lWWWc       </text>
+  <!-- Row 9 (y=226) -->
+  <text x="14" y="226" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">   'KWWk.   .cdxxdc.   .kWWK'         </text>
+  <!-- Row 10 (y=245) -->
+  <text x="14" y="245" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">    oNWWOc.  .;ccc;.  .cOWWNo          </text>
+  <!-- Row 11 (y=264) -->
+  <text x="14" y="264" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">     oKWWWNKkdoooodkKNWWWKo            </text>
+  <!-- Row 12 (y=283) -->
+  <text x="14" y="283" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">      .ckNWWWWWWWWWWWNkc.              </text>
+  <!-- Row 13 (y=302) -->
+  <text x="14" y="302" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">          ..,;:::;,..                  </text>
+  <!-- Row 14 (y=321) blank -->
+  <text x="14" y="321" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">                                       </text>
+  <!-- Row 15 (y=340) name -->
+  <text x="14" y="340" font-family="'Courier New', Courier, monospace" font-size="12" fill="#e3b341">       d i n o a r l a                </text>
+  <!-- Row 16 (y=359) underline -->
+  <text x="14" y="359" font-family="'Courier New', Courier, monospace" font-size="12" fill="#484f58">       ─────────────────               </text>
+  <!-- Row 17 (y=378) blank -->
+  <text x="14" y="378" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">                                       </text>
+  <!-- Row 18 (y=397) role -->
+  <text x="14" y="397" font-family="'Courier New', Courier, monospace" font-size="12" fill="#79c0ff">    Electrical Eng  ·  PLN             </text>
+  <!-- Row 19 (y=416) research -->
+  <text x="14" y="416" font-family="'Courier New', Courier, monospace" font-size="12" fill="#79c0ff">    Applied ML Research                </text>
+  <!-- Row 20 (y=435) education + location -->
+  <text x="14" y="435" font-family="'Courier New', Courier, monospace" font-size="12" fill="#79c0ff">    ITS  ·  West Java, Indonesia       </text>
+  <!-- Row 21 (y=454) blank -->
+  <text x="14" y="454" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">                                       </text>
+  <!-- Row 22 (y=473) blank -->
+  <text x="14" y="473" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">                                       </text>
 
   <!-- =============================== RIGHT COLUMN: NEOFETCH INFO =============================== -->
 
-  <!-- Row 0 (y=55): username header -->
-  <text x="410" y="55" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#e6edf3" font-weight="bold">dinoarla </tspan><tspan fill="#21262d">────────────────────────────────────────────────</tspan></text>
+  <!-- Row 0 (y=55): username header — dashes now #484f58 (visible gray) -->
+  <text x="410" y="55" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#e6edf3" font-weight="bold">dinoarla </tspan><tspan fill="#484f58">────────────────────────────────────────────────</tspan></text>
 
   <!-- Row 1 (y=74): OS -->
   <text x="410" y="74" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">OS:</tspan><tspan fill="#6e7681"> .............................. </tspan><tspan fill="#79c0ff">macOS, Linux</tspan></text>
@@ -109,8 +109,8 @@
   <!-- Row 14 (y=321): blank dot -->
   <text x="410" y="321" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">.</text>
 
-  <!-- Row 15 (y=340): Contact section header -->
-  <text x="410" y="340" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">─ </tspan><tspan fill="#e6edf3">Contact </tspan><tspan fill="#21262d">──────────────────────────────────────────────</tspan></text>
+  <!-- Row 15 (y=340): Contact section header — dashes now visible -->
+  <text x="410" y="340" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#484f58">─ </tspan><tspan fill="#e6edf3">Contact </tspan><tspan fill="#484f58">──────────────────────────────────────────────</tspan></text>
 
   <!-- Row 16 (y=359): Email -->
   <text x="410" y="359" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Email:</tspan><tspan fill="#6e7681"> ........................... </tspan><tspan fill="#79c0ff">dinoarla@gmail.com</tspan></text>
@@ -124,8 +124,8 @@
   <!-- Row 19 (y=416): blank dot -->
   <text x="410" y="416" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6e7681">.</text>
 
-  <!-- Row 20 (y=435): GitHub Stats header -->
-  <text x="410" y="435" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">─ </tspan><tspan fill="#e6edf3">GitHub Stats </tspan><tspan fill="#21262d">────────────────────────────────────────</tspan></text>
+  <!-- Row 20 (y=435): GitHub Stats header — dashes now visible -->
+  <text x="410" y="435" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#484f58">─ </tspan><tspan fill="#e6edf3">GitHub Stats </tspan><tspan fill="#484f58">────────────────────────────────────────</tspan></text>
 
   <!-- Row 21 (y=454): Repos | Stars -->
   <text x="410" y="454" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#6e7681">. </tspan><tspan fill="#ffa657">Repos:</tspan><tspan fill="#6e7681"> ... </tspan><tspan fill="#e6edf3">—</tspan><tspan fill="#6e7681">  |  </tspan><tspan fill="#ffa657">Stars:</tspan><tspan fill="#6e7681"> .............. </tspan><tspan fill="#e6edf3">—</tspan></text>
