@@ -1,3 +1,3 @@
 <div align="center"> 
-  <img src="terminal.svg" alt="dinoarla terminal" width="985"/>
+  <img src="terminal.svg" alt="dinoarla terminal console" width="985"/>
 </div>
