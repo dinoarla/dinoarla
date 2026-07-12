@@ -7,6 +7,9 @@ on:
     - cron: '0 0 * * *'   # daily at midnight UTC
   workflow_dispatch:       # manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
